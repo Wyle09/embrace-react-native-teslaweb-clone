@@ -9,7 +9,7 @@ export default function App() {
       <CarItem/>
       <StatusBar style="auto" />
     </View>
-  )
+  );
 };
 
 const styles = StyleSheet.create({
